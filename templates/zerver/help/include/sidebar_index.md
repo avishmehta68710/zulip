@@ -21,6 +21,7 @@
 * [Logging out](/help/logging-out)
 * [Keyboard shortcuts](/help/keyboard-shortcuts)
 * [Deactivate your account](/help/deactivate-your-account)
+* [Change default view](/help/change-default-view)
 
 ## Sending messages
 * [Open the compose box](/help/open-the-compose-box)

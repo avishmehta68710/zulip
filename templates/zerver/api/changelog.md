@@ -10,6 +10,11 @@ below features are supported.
 
 ## Changes in Zulip 4.0
 
+**Feature level 42**
+
+* `PATCH /settings/display`: Added a new `default_view` setting for user
+  to set the default narrow to render when zulip loads.
+
 **Feature level 41**
 
 * [`GET /events`](/api/get-events): Remove name field from update
